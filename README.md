@@ -36,3 +36,7 @@ apart from technology, my interests range in all categories, I like to watch foo
 <a href="http://www.github.com/nand09"><img src="https://github-readme-stats.vercel.app/api?username=nand09&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="nand09's GitHub stats" /></a>
 
 <a href="https://github.com/nand09" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nand09&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+### Credits
+Credit of this readme goes to https://www.profileme.dev/.
+such a great tool for creating your github profile. 
