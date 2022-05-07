@@ -1,5 +1,10 @@
-web development opened up my mind to many aspects of the technology world. I enjoy learnig about technologies and sometimes I write about what I am learning.
-apart from technology, my interests range in all categories, I like to watch football (soccer), and I enjoy reading books about achieving financial freedom, biographies, Latin American culture and activism, and also good fiction/non-fiction books.
+Hi there fellow reader, 
+
+My name is Fernando and I have been programming for about 5 years now. As a programmer, I solve problems and ever since that first time I solved a coding problem (happy dance) I enjoy the feeling of accomplishment. I enjoy almost all aspects of technology, from raspberry pis projects, to web development, scripting, and cryptocurrency. recently I have taken an interest in writing and my hope is to start my blog to share with the world a piece of my mind. 
+
+apart from technology, my interests range in all categories, I like to watch football (soccer), and I enjoy reading books about achieving financial freedom, autobiographies, Latin American culture and activism, and also fiction/non-fiction books. I enjoy hiking, traveling, and I also like to enjoy life. 
+
+
 
 * 🌍  I'm based in Raleigh, NC
 * ✉️  You can contact me at [nand09developer@gmail.com](mailto:nand09developer@gmail.com)
@@ -38,5 +43,5 @@ apart from technology, my interests range in all categories, I like to watch foo
 <a href="https://github.com/nand09" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nand09&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 ### Credits
-Credit of this readme goes to https://www.profileme.dev/.
+Credit goes to https://www.profileme.dev/. for the easyness of generating this github profile readme. 
 such a great tool for creating your github profile. 
