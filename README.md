@@ -1,8 +1,8 @@
 Hi there fellow reader, 
 
-My name is Fernando and I have been programming for about 5 years now. As a programmer, I solve problems and ever since that first time I solved a coding problem (happy dance) I enjoy the feeling of accomplishment. I enjoy almost all aspects of technology, from raspberry pis projects, to web development, scripting, and cryptocurrency. recently I have taken an interest in writing and my hope is to start my blog to share with the world a piece of my mind. 
+My name is Fernando and I have been programming for about 5 years now. As a programmer, I solve problems and ever since that first time I solved a coding problem (happy dance) I enjoy the feeling of accomplishment. I enjoy almost all aspects of technology, from Raspberry Pi projects, to web development, scripting, and cryptocurrency. recently I have taken an interest in writing and my hope is to start my blog to share with the world a piece of my mind. 
 
-apart from technology, my interests range in all categories, I like to watch football (soccer), and I enjoy reading books about achieving financial freedom, autobiographies, Latin American culture and activism, and also fiction/non-fiction books. I enjoy hiking, traveling, and I also like to enjoy life. 
+apart from technology, my interests range in all categories, I like to watch futbol (soccer), and I enjoy reading books about achieving financial freedom, autobiographies, Latin American culture and activism, and also fiction/non-fiction books. I enjoy hiking and traveling, and I also like to enjoy life. 
 
 
 
